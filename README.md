@@ -57,6 +57,9 @@ DC-VideoGen is built on two core innovations:
 
 [Han Cai](http://hancai.ai/)
 
+## Related Projects
+- [DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space](https://github.com/dc-ai-projects/DC-Gen)
+
 ## Reference
 ```bibtex
 @article{chen2025dcvideogen,
