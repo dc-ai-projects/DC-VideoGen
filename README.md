@@ -62,10 +62,11 @@ DC-VideoGen is built on two core innovations:
 
 ## Reference
 ```bibtex
-@article{chen2025dcvideogen,
- title={DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder},
- author={Chen, Junyu and He, Wenkun and Gu, Yuchao and Zhao, Yuyang and Yu, Jincheng and Chen, Junsong and Zou, Dongyun and Lin, Yujun and Zhang, Zhekai and Li, Muyang and Xi, Haocheng and Zhu, Ligeng and Xie, Enze and Han, Song and Cai, Han},
- journal={arXiv preprint arXiv:2509.25182},
- year={2025}
+@article{chen2025dc,
+  title={DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder},
+  author={Chen, Junyu and He, Wenkun and Gu, Yuchao and Zhao, Yuyang and Yu, Jincheng and Chen, Junsong and Zou, Dongyun and Lin, Yujun and Zhang, Zhekai and Li, Muyang and others},
+  journal={arXiv preprint arXiv:2509.25182},
+  year={2025}
+}
 }
 ```
