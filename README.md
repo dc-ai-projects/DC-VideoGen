@@ -68,5 +68,4 @@ DC-VideoGen is built on two core innovations:
   journal={arXiv preprint arXiv:2509.25182},
   year={2025}
 }
-}
 ```
